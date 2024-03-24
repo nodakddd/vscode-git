@@ -6,6 +6,7 @@ int main() {
 	int eng = 0;
 	int grade = 0;
     int age = 0;
+    int end = 0;
 
 	double avg = 0;
 	char* grade = "";
