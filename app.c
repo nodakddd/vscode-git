@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    int jpn = 0;
 	int ko = 0;
 	int math = 0;
 	int eng = 0;
